@@ -1,2 +1,2 @@
-# Onomatopeya
+# Onomatopeya_Alejandro_Orta_Juan
 Proyecto_01 Onomatopeya
